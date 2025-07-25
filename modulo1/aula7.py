@@ -3,7 +3,7 @@
 # Listas
 
 # Listas são coleções de itens em uma ordem específica. Podem ter qualquer tipo de dado, inclusive outras listas.
-
+# Listas são mutáveis, ou seja, podem ser alteradas após a criação.
 empty_list = []
 print(empty_list)
 
